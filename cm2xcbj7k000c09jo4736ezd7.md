@@ -1,5 +1,6 @@
 ---
 title: "Legal Agents for Making Sense of Legislation"
+seoTitle: "Understanding Legislation: Role of Legal Agents"
 datePublished: Thu Oct 31 2024 13:27:32 GMT+0000 (Coordinated Universal Time)
 cuid: cm2xcbj7k000c09jo4736ezd7
 slug: legal-agents-for-making-sense-of-legislation
