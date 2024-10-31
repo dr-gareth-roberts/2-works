@@ -1,5 +1,5 @@
 ---
-title: ""Mastering the Art of Estimation: Unleashing the Power of Fermi Problems""
+title: "Mastering the Art of Estimation: Unleashing the Power of Fermi Problems"
 datePublished: Thu Oct 31 2024 11:57:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm2x9478t000109mfftme4fie
 slug: mastering-the-art-of-estimation-unleashing-the-power-of-fermi-problems
